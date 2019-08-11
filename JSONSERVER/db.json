@@ -1,0 +1,102 @@
+{
+  "users": [
+    {
+      "name": "史蒂夫",
+      "phone": "15684984",
+      "email": "1656@135.com",
+      "id": 7
+    },
+    {
+      "name": "龙二",
+      "phone": "222-555-888",
+      "email": "longer@gmail.com",
+      "id": 12
+    },
+    {
+      "name": "沙雕",
+      "phone": "81659",
+      "email": "sfs@158.com",
+      "id": 13
+    },
+    {
+      "name": "阿萨德",
+      "phone": "18564549812",
+      "email": "asade@1323.com",
+      "graduateSchool": "阿萨德专属职业进阶学院",
+      "id": 17,
+      "profile": "I’m asade, I am the strongest,who care you!!!"
+    },
+    {
+      "name": "安师傅",
+      "phone": "safdsf",
+      "email": "dsfsdf",
+      "graduateSchool": "阿范德萨",
+      "id": 19
+    },
+    {
+      "name": "谷歌",
+      "phone": "45645656",
+      "email": "54afs@126.com",
+      "graduateSchool": "艾弗森都",
+      "id": 20
+    },
+    {
+      "name": "阿凡达",
+      "phone": "516565",
+      "email": "sdfsad",
+      "graduateSchool": "手动阀",
+      "id": 21
+    },
+    {
+      "name": "张三",
+      "phone": "18154863158",
+      "email": "zhangsan@162.com",
+      "graduateSchool": "三里屯职业技术学院",
+      "profile": "我就是张三，我为自己代言",
+      "id": 22
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "description": "Apple is good!"
+    },
+    {
+      "id": 2,
+      "name": "Mi",
+      "description": "Mi is good!"
+    },
+    {
+      "id": 3,
+      "name": "Google",
+      "description": "BBC is good!"
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "name": "龙云飞",
+      "email": "807094491@qq.com",
+      "password": 666666
+    },
+    {
+      "name": "哈登",
+      "email": "8456@162.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "name": "zz",
+      "email": "zz@123.com",
+      "password": "zz",
+      "id": 3
+    },
+    {
+      "name": "史上最六",
+      "email": "666@666.com",
+      "password": "666666",
+      "id": 4
+    }
+  ]
+}
